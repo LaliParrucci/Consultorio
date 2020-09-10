@@ -1,0 +1,13 @@
+C:\Users\florencia\tp_pav\Formulario\Formulario\obj\Debug\Consultorio.csprojAssemblyReference.cache
+C:\Users\florencia\tp_pav\Formulario\Formulario\obj\Debug\Formulario.Forms.frmConsultaOdontologosLibres.resources
+C:\Users\florencia\tp_pav\Formulario\Formulario\obj\Debug\Consultorio.frmLogin.resources
+C:\Users\florencia\tp_pav\Formulario\Formulario\obj\Debug\Formulario.Forms.frmGestionClientes.resources
+C:\Users\florencia\tp_pav\Formulario\Formulario\obj\Debug\Consultorio.Forms.frmInicio.resources
+C:\Users\florencia\tp_pav\Formulario\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\florencia\tp_pav\Formulario\Formulario\obj\Debug\Consultorio.csproj.GenerateResource.cache
+C:\Users\florencia\tp_pav\Formulario\Formulario\obj\Debug\Consultorio.csproj.CoreCompileInputs.cache
+C:\Users\florencia\tp_pav\Formulario\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\florencia\tp_pav\Formulario\Formulario\bin\Debug\Formulario.exe
+C:\Users\florencia\tp_pav\Formulario\Formulario\bin\Debug\Formulario.pdb
+C:\Users\florencia\tp_pav\Formulario\Formulario\obj\Debug\Formulario.exe
+C:\Users\florencia\tp_pav\Formulario\Formulario\obj\Debug\Formulario.pdb
